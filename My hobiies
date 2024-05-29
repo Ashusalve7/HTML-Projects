@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>link</title>
+<style>
+h3{
+text-align: center;
+}
+</style>
+</head>
+<body>
+<a href="./Education_details.html"><h3>Education details</h3></a>
+<a href="./Hobbies.html"><h3>My Hobbies</h3></a>
+<a href="./My_ideals.html"><h3>My Ideals</h3></a>
+<a href="./achivements.html"><h3>My Achivements</h3></a>
+<a href="google.com/target='blank'"><h3>google.com/target</h3></a>
+<a href="mailto:helpdesk@abc.com"><h3>helpdesk</h3></a>
+<a href="mailto:helpdesk@abc.com?subject=email Assitance"><h3>helpdesk:email
+assistance</h3></a>
+</body>
+</html>
